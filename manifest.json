@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube Seek Tracker",
+    "version": "1.0",
+    "description": "Tracks only manual seek events on YouTube and shows the last 5 in popup.",
+    "permissions": ["tabs", "scripting","storage"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_title": "Last 5 Manual Seeks"
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
