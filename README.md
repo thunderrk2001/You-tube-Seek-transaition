@@ -16,7 +16,8 @@ Track your last 5 manual seek events (via keyboard or mouse) while watching YouT
 
 ## 🖼️ Demo
 
-> Coming soon!
+![image](https://github.com/user-attachments/assets/03d31887-899a-45d9-aef5-ffc7787ba914)
+
 
 ---
 
