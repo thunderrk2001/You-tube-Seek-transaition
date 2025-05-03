@@ -4,16 +4,6 @@ Track your last 5 manual seek events (via keyboard or mouse) while watching YouT
 
 ---
 
-## ✨ Features
-
-- 📌 Automatically tracks **manual seeking** (e.g., via keyboard arrows or mouse clicks).
-- 🧠 Remembers the **last 5 seek pairs** (from → to).
-- 🗃️ Saves history **per YouTube video** using `chrome.storage.local`.
-- 🎯 Clickable overlay to jump back to previous points.
-- 🔁 Works seamlessly across video navigations (e.g., clicking related videos).
-
----
-
 ## 🖼️ Demo
 
 ![image](https://github.com/user-attachments/assets/03d31887-899a-45d9-aef5-ffc7787ba914)
